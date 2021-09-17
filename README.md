@@ -1,5 +1,5 @@
 # GPTacoDiscordFriend
-This code is beyond messy and was mainly just for me to see if this would even be possbile!
+This code is beyond messy and was mainly just for proof-of-concept!
 
 W.I.P. Customizable Discord Buddy!
 
